@@ -1,2 +1,2 @@
 # cs320
-This is my solutions of 2018 fall kaist lecature "programming language" homework. 
+This is my homework solutions of 2018 fall kaist lecture "programming language". 
